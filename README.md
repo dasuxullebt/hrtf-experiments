@@ -64,10 +64,7 @@ project.
 Contact
 -------
 
-Visit my website
-
-	(uxul.de)[https://uxul.de]
-
-Send questions, suggestions, lorazepam and kappa maki to
+Visit my website (uxul.de)[https://uxul.de]. Send questions,
+suggestions, lorazepam and kappa maki to
 
     printf("%s@%s.de\n", "css", "uxul");
